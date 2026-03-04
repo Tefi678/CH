@@ -1,0 +1,11 @@
+{
+  "personalData": {
+    "firstname": "Test",
+    "lastname": "User",
+    "address_1": "Av. Siempreviva 123",
+    "city": "Madrid",
+    "postcode": "28001",
+    "country_id": "United Kingdom",
+    "zone_id": "Greater London"
+  }
+}
